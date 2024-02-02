@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" modified="2023-09-08T18:48:48.643Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Rgfksx-sX3PaFKfZvar6" version="21.7.2" type="device">
+  <diagram name="Page-1" id="tqYETWlU5KR2eFnnnItG">
+    <mxGraphModel dx="1615" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fw5LQPSkagCs7XIGyoi9-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.slideegg.com/image/catalog/20778-Sample-Roadmap-Template-PPT-Red.png;clipPath=inset(2.66% 1% 0% 0%);" vertex="1" parent="1">
+          <mxGeometry x="20" y="610" width="1200" height="664.6464646464647" as="geometry" />
+        </mxCell>
+        <mxCell id="fw5LQPSkagCs7XIGyoi9-13" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 20px; text-align: left;&quot;&gt;Venda dos Serviços para Instituições Particulares&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="27" y="990" width="300" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="fw5LQPSkagCs7XIGyoi9-15" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 20px; text-align: left;&quot;&gt;Protótipo Funcional&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="910" y="1080" width="300" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="fw5LQPSkagCs7XIGyoi9-16" value="&lt;b style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 20px;&quot;&gt;Atingir Órgãos Públicos Governos Locais&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="849" y="880" width="320" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="fw5LQPSkagCs7XIGyoi9-17" value="&lt;b style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 20px;&quot;&gt;Garantir Acesso à Tecnologia&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="780" width="320" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="fw5LQPSkagCs7XIGyoi9-19" value="&lt;b style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 26px;&quot;&gt;Eduquation Público Alvo Roadmap&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="610" width="610" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fw5LQPSkagCs7XIGyoi9-20" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 20px;&quot;&gt;2023&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f54538;" vertex="1" parent="1">
+          <mxGeometry x="425" y="1010" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fw5LQPSkagCs7XIGyoi9-21" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 20px;&quot;&gt;2023&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f54538;" vertex="1" parent="1">
+          <mxGeometry x="761" y="1105" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fw5LQPSkagCs7XIGyoi9-22" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 20px;&quot;&gt;2024&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f54538;" vertex="1" parent="1">
+          <mxGeometry x="697" y="910" width="51" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fw5LQPSkagCs7XIGyoi9-23" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 20px;&quot;&gt;2024&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f54538;" vertex="1" parent="1">
+          <mxGeometry x="510" y="813" width="60" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
